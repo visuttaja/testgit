@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hell'O World!\n";
+    std::cout << "Hell'O World X!\n";
     int a;
     cin >> a;
 }
